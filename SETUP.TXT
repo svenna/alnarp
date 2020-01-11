@@ -25,12 +25,12 @@ Triac pulse time (msec):     0
 Triac on time (msec):   600
 Triac off time (msec):   200
 Threshold MAX low level sensor ative (%):   100
-Threshold MIN low level sensor ative (%):    60
-Threshold MAX low level sensor inactive (%):    57
+Threshold MIN low level sensor ative (%):    80
+Threshold MAX low level sensor inactive (%):    75
 Threshold MIN low level sensor inactive (%):     0
 Threshold MAX high level sensor ative (%):   100
-Threshold MIN high level sensor ative (%):    60
-Threshold MAX high level sensor inactive (%):    57
+Threshold MIN high level sensor ative (%):    80
+Threshold MAX high level sensor inactive (%):    75
 Threshold MIN high level sensor inactive (%):     0
 Number of cycles before 'undef level' alarm:     3
 GSM mode lite(0)/serial(1):     0
@@ -38,8 +38,8 @@ GSM connected off(0)/on(1):     0
 Heater options:     1
 TMP1:   5.00
 TMP2:   1.00
-Setpoint value for high signal (0.0 – 100.0%):  25.50
-Setpoint value for low signal (0,0 – 100.0%):  21.50
+Setpoint value for high signal (0.0 ï¿½ 100.0%):  25.50
+Setpoint value for low signal (0,0 ï¿½ 100.0%):  21.50
 Polarity  Heater Output (0 or 1):     1
 CAN mode (0=No CAN,1=CAN Master,2=CAN Slave):     0
 CAN address (0-9, 0 is master):     0
