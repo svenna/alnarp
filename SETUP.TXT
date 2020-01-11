@@ -1,0 +1,110 @@
+Alnarp Cleanwater Technology AB
+FW rev 068
+Threshold value MAX current AIRJET1 (A):  1.00
+Threshold value MIN current AIRJET1 (A):  0.10
+Threshold value MAX current HEAT (A):  1.00
+Threshold value MIN current HEAT (A):  0.10
+Threshold value MAX current PUMP1 (A):  3.90
+Threshold value MIN current PUMP1 (A):  0.20
+Operating time (sec):    20
+Operating adjust time (sec):     5
+Pause time 0 (sec):   300
+Pause time 1 (sec):   600
+Pause time 2 (sec):   900
+Pause time 3 (sec):  1200
+Pause time 4 (sec):  1500
+Pause time 5 (sec):  1800
+Pause time 6 (sec):  2100
+Pause time 7 (sec):  2400
+Pause time 8 (sec):  2700
+Pause time 9 (sec):  3000
+Pump time after high level is released (sec):    30
+Pump time after low level is released (sec):     5
+Pump time to realease high level (sec):   120
+Triac pulse time (msec):     0
+Triac on time (msec):   600
+Triac off time (msec):   200
+Threshold MAX low level sensor ative (%):   100
+Threshold MIN low level sensor ative (%):    60
+Threshold MAX low level sensor inactive (%):    57
+Threshold MIN low level sensor inactive (%):     0
+Threshold MAX high level sensor ative (%):   100
+Threshold MIN high level sensor ative (%):    60
+Threshold MAX high level sensor inactive (%):    57
+Threshold MIN high level sensor inactive (%):     0
+Number of cycles before 'undef level' alarm:     3
+GSM mode lite(0)/serial(1):     0
+GSM connected off(0)/on(1):     0
+Heater options:     1
+TMP1:   5.00
+TMP2:   1.00
+Setpoint value for high signal (0.0 – 100.0%):  25.50
+Setpoint value for low signal (0,0 – 100.0%):  21.50
+Polarity  Heater Output (0 or 1):     1
+CAN mode (0=No CAN,1=CAN Master,2=CAN Slave):     0
+CAN address (0-9, 0 is master):     0
+CAN number of slaves 0-9:     7
+Ramp-up time for high level evacuation (sec):    10
+Startgroup 0:    10
+Startgroup 1:    23
+Startgroup 2:    45
+Startgroup 3:     -1
+Startgroup 4:     -1
+Startgroup 5:    67
+Startgroup 6:     -1
+Startgroup 7:     -1
+Startgroup 8:     -1
+Startgroup 9:     -1
+SLAVES SETUP
+pump time (sec)
+triac pulse time (msec)
+triac on time (msec)
+triac off time (msec)
+Slave 1
+:   20
+:    0
+:  600
+:  200
+Slave 2
+:   20
+:    0
+:  600
+:  200
+Slave 3
+:   20
+:    0
+:  600
+:  200
+Slave 4
+:   20
+:    0
+:  600
+:  200
+Slave 5
+:   20
+:    0
+:  600
+:  200
+Slave 6
+:   20
+:    0
+:  600
+:  200
+Slave 7
+:   20
+:    0
+:  600
+:  200
+Slave 8
+:   20
+:    0
+:  600
+:  200
+Slave 9
+:   20
+:    0
+:  600
+:  200
+ 
+ 
+ 
